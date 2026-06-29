@@ -4,3 +4,4 @@ TestKey.pem
 *.pem
 instructions.txt
 .DS_Store
+*.code-workspace
